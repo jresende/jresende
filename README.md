@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jresende
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently teaching at Universidade Nova de Lisboa
-- 💞️ I’m looking to collaborate on research and technologie transfer
+- 🌱 I’m looking to collaborate on research and technologie transfer
 - 📫 How to reach me jresende _At_ fct.unl.pt
 - 📫 For other subject please use insightsec.pt
 
